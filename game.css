@@ -12,7 +12,7 @@ body
 	}
 
 
-#player1_name , #player2_name
+#nombre_jugador1 , #nombre_jugador2
 {
 	display: inline-block;
 	margin-left: 20px;
